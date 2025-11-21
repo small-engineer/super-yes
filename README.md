@@ -4,7 +4,7 @@
 ## exsample
 
 ```sh
-./a.out
+./a.out yes
 y
 e
 s
